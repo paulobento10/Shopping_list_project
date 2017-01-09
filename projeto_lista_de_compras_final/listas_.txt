@@ -1,0 +1,11 @@
+Numero de listas: 1
+Numero de produtos da lista 1: 2
+Nome da lista 1: lista 1
+Nome do produto 1: prod 2
+Categoria do produto 1: 2
+Calorias do produto 1: 20
+O produto 1 nao tem lactose
+Nome do produto 2: novo
+Categoria do produto 2: 4
+Calorias do produto 2: 40
+O produto 2 tem lactose

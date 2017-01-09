@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1480426446 source:c:\users\paulo\desktop\projeto_lista_de_compras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1482341726 c:\users\paulo\desktop\projeto_lista_de_compras\biblioteca.h
+
+1482341726 source:c:\users\paulo\desktop\projeto_lista_de_compras\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1480035068 source:c:\users\paulo\dropbox\1ano_projeto\projeto_lista_de_compras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1480421519 c:\users\paulo\dropbox\1ano_projeto\projeto_lista_de_compras\biblioteca.h
+
+1480425938 source:c:\users\paulo\dropbox\1ano_projeto\projeto_lista_de_compras\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1480035068 source:c:\users\tiago\desktop\projeto_lista_de_compras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1480259562 c:\users\tiago\desktop\projeto_lista_de_compras\biblioteca.h
+
+1480259700 source:c:\users\tiago\desktop\projeto_lista_de_compras\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1483702736 source:c:\users\paulo\dropbox\1ano_projeto\projeto_lista_de_compras_final\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1483702644 c:\users\paulo\dropbox\1ano_projeto\projeto_lista_de_compras_final\biblioteca.h
+
+1483704692 source:c:\users\paulo\dropbox\1ano_projeto\projeto_lista_de_compras_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1483702736 source:c:\users\paulo\desktop\projeto_lista_de_compras_final\biblioteca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"biblioteca.h"
+
+1483702644 c:\users\paulo\desktop\projeto_lista_de_compras_final\biblioteca.h
+
+1483704692 source:c:\users\paulo\desktop\projeto_lista_de_compras_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+

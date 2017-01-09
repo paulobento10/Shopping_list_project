@@ -1,0 +1,91 @@
+Numero de listas: 5
+Numero de produtos da lista 1: 1
+Nome da lista 1: lista 1
+Nome do produto 1: prod 1
+Categoria do produto 1: 1
+Calorias do produto 1: 1
+O produto 1 tem lactose
+Numero de produtos da lista 2: 2
+Nome da lista 2: lista 2
+Nome do produto 1: prod 2
+Categoria do produto 1: 2
+Calorias do produto 1: 2
+O produto 1 tem lactose
+Nome do produto 2: prod 3
+Categoria do produto 2: 3
+Calorias do produto 2: 3
+O produto 2 nao tem lactose
+Numero de produtos da lista 3: 3
+Nome da lista 3: lista 3
+Nome do produto 1: prod 4
+Categoria do produto 1: 4
+Calorias do produto 1: 4
+O produto 1 tem lactose
+Nome do produto 2: prod 5
+Categoria do produto 2: 5
+Calorias do produto 2: 5
+O produto 2 nao tem lactose
+Nome do produto 3: prod 6
+Categoria do produto 3: 6
+Calorias do produto 3: 6
+O produto 3 nao tem lactose
+Numero de produtos da lista 4: 4
+Nome da lista 4: Quatro
+Nome do produto 1: UM
+Categoria do produto 1: 1
+Calorias do produto 1: 1
+O produto 1 tem lactose
+Nome do produto 2: DOIS
+Categoria do produto 2: 2
+Calorias do produto 2: 2
+O produto 2 nao tem lactose
+Nome do produto 3: TRES
+Categoria do produto 3: 33
+Calorias do produto 3: 33
+O produto 3 tem lactose
+Nome do produto 4: agua
+Categoria do produto 4: 123
+Calorias do produto 4: 0
+O produto 4 nao tem lactose
+Numero de produtos da lista 5: 10
+Nome da lista 5: LISTA CINCO
+Nome do produto 1: a
+Categoria do produto 1: 0
+Calorias do produto 1: 0
+O produto 1 nao tem lactose
+Nome do produto 2: b
+Categoria do produto 2: 1
+Calorias do produto 2: 1
+O produto 2 tem lactose
+Nome do produto 3: c
+Categoria do produto 3: 2
+Calorias do produto 3: 2
+O produto 3 nao tem lactose
+Nome do produto 4: d
+Categoria do produto 4: 3
+Calorias do produto 4: 3
+O produto 4 tem lactose
+Nome do produto 5: e
+Categoria do produto 5: 4
+Calorias do produto 5: 4
+O produto 5 nao tem lactose
+Nome do produto 6: f
+Categoria do produto 6: 5
+Calorias do produto 6: 5
+O produto 6 tem lactose
+Nome do produto 7: g
+Categoria do produto 7: 6
+Calorias do produto 7: 6
+O produto 7 nao tem lactose
+Nome do produto 8: i
+Categoria do produto 8: 7
+Calorias do produto 8: 7
+O produto 8 tem lactose
+Nome do produto 9: h
+Categoria do produto 9: 8
+Calorias do produto 9: 8
+O produto 9 tem lactose
+Nome do produto 10: j
+Categoria do produto 10: 10
+Calorias do produto 10: 10
+O produto 10 nao tem lactose
